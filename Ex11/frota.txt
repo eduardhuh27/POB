@@ -1,0 +1,2 @@
+Tipo do veiculo: Carro	Placa: ABC1234	Custo Fixo: 150.5	Custo total:3960.7	Quilometragem: 25000
+Tipo do veiculo: Caminhao	Placa: DEF5678	Custo Fixo: 850.0	Custo Total: 1727.5	Carga: 15.0 toneladas
